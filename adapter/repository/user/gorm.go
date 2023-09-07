@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"gorm.io/gorm"
-	"my-contacts/entity"
-	"my-contacts/port/repository"
+	"go-crud/entity"
+	"go-crud/port/repository"
 )
 
 type repo struct {
